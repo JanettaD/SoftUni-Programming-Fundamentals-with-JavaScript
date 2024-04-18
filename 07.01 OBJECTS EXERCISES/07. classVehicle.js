@@ -1,4 +1,4 @@
-//in convention the name of the classes are written with capital letter
+//in convention - the name of the classes are written with capital letter
 
 class Vehicle {
    constructor(type, model, parts, fuel) {

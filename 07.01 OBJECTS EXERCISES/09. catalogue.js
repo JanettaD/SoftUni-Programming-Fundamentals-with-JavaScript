@@ -1,5 +1,5 @@
 function catalogue(input) {
-    //initialize an empty object products to store the product catalog. 
+    //initialise an empty object products to store the product catalog. 
     //The keys in this object will be the initials of the product names.
     let products = {};
   
